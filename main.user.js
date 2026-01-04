@@ -3,8 +3,8 @@
 // @description  Парсинг КН
 // @namespace    https://github.com/werunopi/NSPD-Parser
 // @supportURL   https://github.com/werunopi/NSPD-Parser/issues
-// @updateURL    https://github.com/werunopi/NSPD-Parser
-// @downloadURL  https://github.com/werunopi/NSPD-Parser
+// @updateURL    https://raw.githubusercontent.com/werunopi/NSPD-Parser/refs/heads/main/main.meta.js
+// @downloadURL  https://raw.githubusercontent.com/werunopi/NSPD-Parser/refs/heads/main/main.user.js
 // @version      1.0
 // @author       Wer
 // @match        https://nspd.gov.ru/*
