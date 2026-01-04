@@ -5,7 +5,7 @@
 // @supportURL   https://github.com/werunopi/NSPD-Parser/issues
 // @updateURL    https://raw.githubusercontent.com/werunopi/NSPD-Parser/refs/heads/main/main.meta.js
 // @downloadURL  https://raw.githubusercontent.com/werunopi/NSPD-Parser/refs/heads/main/main.user.js
-// @version      1.0
+// @version      1.1
 // @author       werunopi
 // @match        https://nspd.gov.ru/*
 // @grant        none
