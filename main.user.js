@@ -6,7 +6,7 @@
 // @updateURL    https://raw.githubusercontent.com/werunopi/NSPD-Parser/refs/heads/main/main.meta.js
 // @downloadURL  https://raw.githubusercontent.com/werunopi/NSPD-Parser/refs/heads/main/main.user.js
 // @version      1.0
-// @author       Wer
+// @author       werunopi
 // @match        https://nspd.gov.ru/*
 // @grant        none
 // @license      GPUL
