@@ -200,7 +200,7 @@
             <div id="nspd_body" style="padding:15px; display:flex; flex-direction:column; gap:10px;">
                 <textarea id="kn_input" style="width:100%; height:80px; font-size:11px; resize:vertical;" placeholder="КН через перенос..."></textarea>
                 <div style="font-size:11px;">Ожидание КН (мс): <input type="number" id="t_search" value="${savedTimeout}" style="width:60px;"></div>
-                <div id="fields" style="max-height:140px; overflow-y:auto; border:1px solid #eee; font-size:11px; padding:5px;">
+                <div id="fields" style="max-height:300px; overflow-y:auto; border:1px solid #eee; font-size:11px; padding:5px;">
                     ${AVAILABLE_FIELDS.map(f => `<label style="display:block; margin-bottom:2px;"><input type="checkbox" value="${f}" ${savedFields.includes(f)?'checked':''}> ${f}</label>`).join('')}
                 </div>
                 <div style="display:grid; grid-template-columns: 1fr 1fr; gap:10px;">
